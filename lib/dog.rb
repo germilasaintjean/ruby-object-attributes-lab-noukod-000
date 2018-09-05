@@ -6,8 +6,7 @@ end
  def name
    @name
  end
- end
- class Breed
+  
      def breed=(breed)
      @breed = breed
  end
@@ -15,5 +14,4 @@ end
   def breed
     @breed
   end
-
 end
