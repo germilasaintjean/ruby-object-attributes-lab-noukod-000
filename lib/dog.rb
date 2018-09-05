@@ -16,5 +16,3 @@ end
     @breed
   end
 end
-
-
