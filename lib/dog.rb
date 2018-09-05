@@ -8,11 +8,12 @@ end
  end
  end
  class Breed
-     def name=(breed)
+     def breed=(breed)
      @breed = breed
  end
 
   def breed
     @breed
   end
+
 end
